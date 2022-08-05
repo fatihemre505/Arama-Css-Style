@@ -37,7 +37,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #262626;
+    background: rgba(0, 0, 0, 0.5);
     height: var(--searchbox70);
     border-radius: var(--searchbox50);
     width: auto;
